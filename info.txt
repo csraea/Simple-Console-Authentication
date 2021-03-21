@@ -1,0 +1,6 @@
+otto:apple
+marius:banana
+dolores:lemon
+beatrix:orange
+nero:watermelon
+donald:pineapple
